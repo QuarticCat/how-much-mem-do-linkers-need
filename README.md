@@ -5,6 +5,7 @@
 ### Requirements
 
 - Zsh
+- GNU time
 - CMake >= 3.29 (required by `CMAKE_LINKER_TYPE`)
 - Ninja (optional)
 
